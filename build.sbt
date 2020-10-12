@@ -8,7 +8,7 @@ crossPaths := false
 sbtPlugin := false
 
 libraryDependencies ++= Seq(
-  "junit" % "junit" % "4.13",
+  "junit" % "junit" % "4.13.1",
   "org.scala-sbt" % "test-interface" % "1.0"
 )
 
